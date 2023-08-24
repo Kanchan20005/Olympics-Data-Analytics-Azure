@@ -1,4 +1,4 @@
-<img width="811" alt="image" src="https://github.com/Kanchan20005/Olympics-Data-Analytics-Azure/assets/43069585/5180932a-dae3-49fb-a6c1-28ef54f912e8"># Olympics-Data-Analytics-Azure
+# Olympics-Data-Analytics-Azure
 This is an end to end data engineering project on Azure portal with the use of Kaggle data (Olympic Data Analytics).The tools used here are Azure Data Factory, Data Lake Gen 2, Synapse Analytics, and Azure Databricks.
 
 ## Introduction
@@ -10,7 +10,7 @@ ___
 
 ## Architecture
 <p>
-<img src="https://github.com/Kanchan20005/Uber-Data-Engineering/blob/main/Mage-ETL%20.png" align="left"
+<img src="https://github.com/Kanchan20005/Olympics-Data-Analytics-Azure/assets/43069585/5180932a-dae3-49fb-a6c1-28ef54f912e8" align="left"
      alt="Mage-ai"  width=100% height=100%>
 </p>
 
