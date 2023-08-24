@@ -43,3 +43,6 @@ Utilize Azure Databricks with PySpark for data transformation. Cleanse, preproce
 
 #### Analytics
 Write SQL queries using Azure Synapse Analytics to gain insights from the transformed data. Identify trends, statistics, and patterns related to the Olympics data.
+
+
+## Power BI Dashboard:
