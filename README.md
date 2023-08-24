@@ -16,3 +16,16 @@ ___
 
 <br>
 
+## Technology Used
+___
+### Programming Language
+     * Python
+     * pySpark
+     * SQL
+### Azure Platform 
+     * Azure Data Factory
+     * Azure Data Lake Gen 2
+     * Databricks
+### Visualization and Analytics
+     * Power BI
+     * Azure Synapse Analysis
