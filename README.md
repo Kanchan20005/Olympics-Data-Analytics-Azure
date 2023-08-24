@@ -29,3 +29,17 @@ ___
 ### Visualization and Analytics
      * Power BI
      * Azure Synapse Analysis
+
+
+## Project Structure:
+#### Data Ingestion
+Use Azure Data Factory to configure data ingestion from your chosen data sources. Define the data movement and transformation activities required to bring the Olympics data into the Azure ecosystem.
+
+####  Data Storage
+The ingested data will be stored in Azure Data Lake Storage Gen2. Set up the appropriate folder structure and permissions to organize and secure your data.
+
+#### Data Transformation
+Utilize Azure Databricks with PySpark for data transformation. Cleanse, preprocess, and reshape the data as necessary to prepare it for analysis.
+
+#### Analytics
+Write SQL queries using Azure Synapse Analytics to gain insights from the transformed data. Identify trends, statistics, and patterns related to the Olympics data.
